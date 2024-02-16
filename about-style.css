@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid gray;
+  padding: 8px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
+}
+
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
+
+a {
+  text-decoration: none;
+  color: #008CBA;
+}
+
+body {
+  background-color: #f0f0f0; /* Set a different background color */
+}
+
+h1 {
+  color: blue; /* Set a different color for headings */
+}
+
+/* Add more styles specific to the About Me page as needed */
+
+h2 {
+  text-align: center;
+}
+
+h2 {
+  color: #5a3610;
+}
+
+h3 {
+  text-align: center;
+}
+
+
+h4 {
+  text-align:center;
+  font-size: 30px;
+  color: #92502B;
+}
+
+h5 {
+  text-align:center;
+  font-size: 20px;
+  color:
+}
